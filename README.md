@@ -1,4 +1,4 @@
 # Blog-Website
 
-Open the index.html file
+Open the 'index.html' file
 
